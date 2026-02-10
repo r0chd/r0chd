@@ -1,1 +1,1 @@
-Here just for mirrors, go there: https://forgejo.r0chd.pl/r0chd
+Go there if you want to see my up to date stuff: https://git.r0chd.pl/r0chd
